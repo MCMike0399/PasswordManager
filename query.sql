@@ -6,10 +6,10 @@ create table usuarios (
     primary key (correo)
 )
 create table redes (
-	redID int not null auto_increment,
-    nombre varchar(200),
+    usuario varchar(200),
     pass varchar(200),
+    passE varchar(250),
     correo varchar(200) not null,
     foreign key (correo) references usuarios(correo),
-    primary key (redID)
+    primary key (nombre)
 )	
