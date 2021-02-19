@@ -6,10 +6,10 @@ create table usuarios (
     primary key (correo)
 )
 create table redes (
-    usuario varchar(200),
+    redsocial varchar(200),
     pass varchar(200),
     passE varchar(250),
     correo varchar(200) not null,
     foreign key (correo) references usuarios(correo),
-    primary key (nombre)
+    primary key (redsocial)
 )	

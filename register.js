@@ -1,3 +1,19 @@
+function getRandomInt(min, max) {
+    return Math.floor(Math.random() * (max - min)) + min;
+}
+function randomizer() {
+    let passRan = "";
+    let letras = "qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM1234567890!#$&";
+    for(let i=0; i<12; i++) {
+        passRan += letras[getRandomInt(0,66)];
+    }
+    return passRan;
+}
+const btnAutoGen = document.getElementById("btnAutoGen");
+btnAutoGen.addEventListener('click',function() {
+    $("#regPass").val(randomizer());
+});
+
 const regBtn = document.getElementById("regBtn");
 regBtn.addEventListener('click',function() {
     let regEmail = $("#regEmail").val();

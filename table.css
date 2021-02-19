@@ -1,0 +1,16 @@
+tr td {background: #f2f2f2}
+
+table{
+	border-collapse: collapse;
+}
+table td, table th{
+	border: 1px solid black;
+  text-align: left;
+}
+table thead{
+	background:#ccc;
+}
+#container {
+    align-items: center;
+    padding: 20px;
+}
