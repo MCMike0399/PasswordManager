@@ -6,4 +6,4 @@ Run App:
    ```
   npm start
 ```
-Rod Ponme 10, el video está en el mismo zip
+Rod Pónganos 10, el video está en el mismo zip
