@@ -11,7 +11,7 @@
 ## Información General
 *Manejador de Contraseñas* es un programa desarrollado en electron para que puedas guardar tus contraseñas y encriptarlas de manera segura. Utiliza un formato de encriptación **Aes256**, y una llave maestra que es dada por el usuario. 
 
-  ![](https://es.wikipedia.org/wiki/Advanced_Encryption_Standard#/media/Archivo:AES-SubBytes.svg "Encriptación Aes256")
+  ![](https://i.imgur.com/YrEz37G.png "Encriptación Aes256")
 
 Permite dar de alta distintas redes sociales, y su contraseña que protege a la misma. La contraseña puede ser dada por el usuario o generada aleatoriamente. La contraseña generada respeta las pautas para tener una contraseña segura.
 
