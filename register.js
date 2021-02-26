@@ -19,7 +19,7 @@ regBtn.addEventListener('click',function() {
     let regEmail = $("#regEmail").val();
     let regName = $("#regName").val();
     let regPass = $("#regPass").val();
-    let mysql = require('mysql');
+    const mysql = require('mysql');
     let con = mysql.createConnection({
         host: "localhost",
         user: "root",

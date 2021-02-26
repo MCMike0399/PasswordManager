@@ -1,9 +1,2 @@
-install dependencies:
- ```
-  npm install 
-```
-Run App:
-   ```
-  npm start
-```
-Rod Ponme 10, el video está en el mismo zip
+#Manejador de Contraseñas
+>Programa diseñado en electron para manejar y encriptar las contraseñas
