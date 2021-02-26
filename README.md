@@ -18,3 +18,10 @@ Permite dar de alta distintas redes sociales, y su contraseña que protege a la 
 El fin del programa es mostrar de una manera organizada y fácil de leer las contraseñas y las contraseñas encriptadas de cada red social que hayas dado de alta.
 
 ## Alta de Cuenta
+
+Para dar de alta una cuenta maestra (cuenta que guardará todas las redes sociales del usuario), debes dar click en *Ingresar* y llenar todos los datos que pide la ventana. Si el programa registra tus datos correctamente debería mostrarte el siguiente mensaje: *Registro Correcto*.
+El Botón de *AutoGenerar* crea una contraseña aleatoria que cumple con los requerimientos de seguridad.
+
+  ![](https://i.imgur.com/JNkWSoE.png)
+
+## Alta de Red
