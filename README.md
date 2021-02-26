@@ -2,11 +2,11 @@
 >Programa diseñado en electron para manejar y encriptar las contraseñas de un usuario
 
 ## Tabla de Contenido
-* [Información General](#general-info)
-* [Instalación](#instalacion)
-* [Alta de Cuenta](#altaCuenta)
-* [Alta de Red Social](#altaRedSocial)
-* [Datos de tu usuario](#datos)
+* [Información General](#información-general)
+* [Instalación](#instalación)
+* [Alta de Cuenta](#alta-de-cuenta)
+* [Alta de Red Social](#alta-de-red-social)
+* [Datos del usuario](#datos-del-usuario)
 
 ## Información General 
 
