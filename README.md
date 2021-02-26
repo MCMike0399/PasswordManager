@@ -8,7 +8,7 @@
 * [Alta de Red Social](#altaRedSocial)
 * [Datos de tu usuario](#datos)
 
-## Información General #general-info
+## Información General 
 
 *Manejador de Contraseñas* es un programa desarrollado en electron para que puedas guardar tus contraseñas y encriptarlas de manera segura. Utiliza un formato de encriptación **Aes256**, y una llave maestra que es dada por el usuario. 
 
@@ -18,7 +18,7 @@ Permite dar de alta distintas redes sociales, y su contraseña que protege a la 
 
 El fin del programa es mostrar de una manera organizada y fácil de leer las contraseñas y las contraseñas encriptadas de cada red social que hayas dado de alta.
 
-## Instalación #instalacion
+## Instalación 
 
 Para instalar el programa en tu computadora es necesario instalar **NodeJS** y **NPM**, que puedes bajarlos en el siguiente [vínculo](https://nodejs.org/en/). Una vez instalado, ejecuta los siguientes comandos en la terminal:
  ```
@@ -26,7 +26,7 @@ Para instalar el programa en tu computadora es necesario instalar **NodeJS** y *
   npm start
 ```
 
-## Alta de Cuenta #altaCuenta
+## Alta de Cuenta 
 
 Para dar de alta una cuenta maestra (cuenta que guardará todas las redes sociales del usuario), debes dar click en *Ingresar* y llenar todos los datos que pide la ventana. Si el programa registra tus datos correctamente debería mostrarte el siguiente mensaje: **Registro Correcto**.
 El Botón de *AutoGenerar* crea una contraseña aleatoria que cumple con los requerimientos de seguridad.
